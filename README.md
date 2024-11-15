@@ -28,7 +28,7 @@ To install the project, follow these steps:
 ## Usage
 To start the application, run:
 ```bash
-npm start
+npm run dev
 ```
 The application will be available at `http://localhost:3000`.
 
